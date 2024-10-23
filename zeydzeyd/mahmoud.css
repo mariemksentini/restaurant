@@ -1,0 +1,38 @@
+.carousel{
+    width: 800px;
+    height: 500px;
+    display: flex;
+    justify-self: center;
+    margin: 2%;
+}
+
+.d-block{
+    width: 800px;
+    height: 500px;
+}
+
+.container{
+
+    display: flex;
+    justify-content: space-around;
+}
+.card img{
+    height: 160px;
+    width: 230px;
+}
+
+.card{
+    width: 230px;
+}
+
+.introduction {
+    margin: 1%;
+    max-width: 100%;
+}
+
+#Home{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+

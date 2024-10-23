@@ -1,0 +1,55 @@
+.carousel{
+    width: 700px;
+    height: 380px;
+    display: flex;
+    justify-self: center;
+    margin: 2%;
+}
+
+.carousel-item img{
+    width: 700px;
+    height: 380px;
+}
+.introduction p,.events p{
+    margin-top: 5px; 
+    max-width: 600px;
+}
+.container{
+
+    display: flex;
+    justify-content: space-around;
+}
+.card img{
+    height: 160px;
+    width: 230px;
+}
+
+.card{
+    width: 230px;
+}
+
+.introduction {
+    margin: 1%;
+    max-width: 100%;
+}
+
+#Home,.News{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+.navbar {
+    position: sticky; /* Sticks to the top when scrolling */
+    top: 0; /* The navbar will stick at the top of the viewport */
+    /* padding: 10px; */
+    z-index: 1000;
+}
+
+.buffettable{
+    width: 735px;
+}
+
+.row{
+    justify-content: space-evenly;
+    column-gap: 30px;
+}
