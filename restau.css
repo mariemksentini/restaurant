@@ -1,3 +1,11 @@
+/* *{
+    width: 98%;
+
+}
+body {
+    margin-right: 2%;
+    margin-left: 2%;
+} */
 .carousel{
     width: 700px;
     height: 380px;
@@ -75,7 +83,7 @@ footer {
     width: 100%;              /* Full width of the page */
     height: auto;             /* Height of the footer */
     background-color: #F8F9FA;    /* Background color (dark gray in this case) */
-    color: white;              /* Text color */
+    color: dimgrey;              /* Text color */
     text-align: center;        /* Center text horizontally */
     /* line-height: 100px;        / Vertically centers the text / */
     bottom: 0;                 /* Align to the bottom */
@@ -83,13 +91,13 @@ footer {
 }
 
 img[src="nos-chefs.jpg"]{
-    width: 1100px;
+    width: 900px;
     height: auto;
 }
 #about-us .card{
     display: flex;
     align-self: center;
     justify-self: center;
-    width: 1100px;
+    width: 900px;
     height: auto;
 }
