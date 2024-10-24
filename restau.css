@@ -75,7 +75,7 @@ body {
     margin-bottom: 20px;
 }
 
-#Traditional-dishes .Traditional-dishes{
+#Traditional-dishes .Traditional-dishes, #Our-pasta .Pasta, #Our-pizzas .pizza, #Refreshments .desserts{
     margin: 30px;
 }
 
@@ -100,4 +100,8 @@ img[src="nos-chefs.jpg"]{
     justify-self: center;
     width: 900px;
     height: auto;
+}
+
+#about-us{
+    margin: 25px;
 }
